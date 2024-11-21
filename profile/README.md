@@ -5,7 +5,7 @@
   <h2>Langages et outils que nous utilisons</h2>
     <div class="icons">
         <img src="https://skillicons.dev/icons?i=java,mysql,html,css" alt="Langages">
-        <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" alt="Outils">
+        <img src="https://skillicons.dev/icons?i=git,docker,vscode" alt="Outils">
     </div>
 
   <h2>Notre stack technique</h2>
